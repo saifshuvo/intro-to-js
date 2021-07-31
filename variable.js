@@ -9,3 +9,5 @@ var school = 'Ideal school and college';
 
 var pass = true;
 var subscribed = false;
+
+console.log(school);
